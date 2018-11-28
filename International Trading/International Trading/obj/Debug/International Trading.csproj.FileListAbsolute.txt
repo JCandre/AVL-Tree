@@ -1,0 +1,18 @@
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\bin\Debug\International Trading.exe.config
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\bin\Debug\International Trading.exe
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\bin\Debug\International Trading.pdb
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.csprojResolveAssemblyReference.cache
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International_Trading.Form1.resources
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International_Trading.Properties.Resources.resources
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.csproj.GenerateResource.Cache
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.exe
+C:\Users\Joel\OneDrive - MMU\Private\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.pdb
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\bin\Debug\International Trading.exe.config
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.exe
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.pdb
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\bin\Debug\International Trading.exe
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\bin\Debug\International Trading.pdb
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International_Trading.Properties.Resources.resources
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International Trading.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\Algorithms\Assignments\International Trading\International Trading\obj\Debug\International_Trading.Form1.resources
